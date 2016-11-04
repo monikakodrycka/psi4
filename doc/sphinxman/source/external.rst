@@ -232,6 +232,7 @@ Control of threading in |PSIfour| can be accomplished at a variety of levels,
 ranging from global environment variables to direct control of thread count in
 the input file, to even directives specific to each model. This hierarchy is
 explained below. Note that each deeper level trumps all previous levels.
+extra text.
 
 .. rubric:: (1) OpenMP/MKL Environment Variables
 
